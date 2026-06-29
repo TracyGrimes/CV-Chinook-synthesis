@@ -17,6 +17,8 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "RST"
+        href: rst.qmd
     right: 
       - icon: github
         href: https://github.com/TracyGrimes/CV-Chinook-synthesis
