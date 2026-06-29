@@ -1,1 +1,0 @@
-# CV-Chinook-synthesis
